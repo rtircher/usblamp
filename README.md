@@ -5,9 +5,9 @@ Installation
 ------------
 dependency libusb++-dev
 
- * `wget https://github.com/daniel-git/usblamp/tarball/master --no-check-certificate`
+ * `wget https://github.com/rtircher/usblamp/tarball/master --no-check-certificate`
  * `tar xzf master`
- * `cd daniel-git-usblamp*/src`
+ * `cd rtircher-usblamp*/src`
  * `make`
  * `sudo make install`
 
